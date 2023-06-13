@@ -1,0 +1,59 @@
+@import url(../css/style.css);
+@import url(../css/style2.css);
+@font-face {
+    font-family: reboto;
+    src: url(../assent/fonts/Roboto-Black.ttf);
+    src: url(../assent/fonts/Roboto-BlackItalic.ttf);
+    src: url(../assent/fonts/Roboto-Bold.ttf);
+    src: url(../assent/fonts/Roboto-Medium.ttf);
+    src: url(../assent/fonts/Roboto-MediumItalic.ttf);
+    src: url(../assent/fonts/Roboto-Light.ttf);
+    src: url(../assent/fonts/Roboto-ThinItalic.ttf);
+    src: url(../assent/fonts/Roboto-BoldItalic.ttf);
+    src: url(../assent/fonts/Roboto-Regular.ttf);
+}
+
+
+ li{
+    list-style:none;
+ }
+*{
+    margin: 0 ;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: reboto;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+    font-size: 16px;
+  
+}
+button{
+    background-color: red;
+}
+p{
+    font-size: 10px ;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: #322429;
+    font-weight: 900;
+    margin: 0 0 80px 0;
+}
+h3{
+    color: #322429;
+    font-size: 30px;
+    margin: 0 0 25px 0;
+    font-weight: 700;
+
+  }
+  h2{
+    margin: 0;
+  }
